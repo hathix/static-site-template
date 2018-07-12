@@ -24,6 +24,19 @@
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+## CONFIG
+
+# The name of your website
+name: Example Static Site
+# A brief description, e.g. for Google search results
+description: |
+  An awesome website!
+# Where your website lives. In YAML (the language this file uses), if any of
+# your values include a colon, you must put the value in quotes.
+deployed_url: "http://hathix.com"
+
+## DON'T TOUCH
+
 # Build settings
 markdown: kramdown
 theme: minima
