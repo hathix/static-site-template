@@ -40,7 +40,7 @@ will buy your own domain name instead of using a free github.io URL.
 1. Buy a domain name. [Google Domains](https://domains.google/#/), [GoDaddy](https://www.godaddy.com/), and [NameCheap](https://www.namecheap.com/) are all good.
 1. Fork this repository and rename it. You can name it whatever you want, as long as the github.io name is available. [Follow this article](https://pages.github.com/) - see the "User or organization site" example.
 1. [Follow this article](https://help.github.com/articles/setting-up-an-apex-domain/) to connect your github.io URL with your actual domain name.
-1. Put your real domain name in the `CNAME` file.
+1. Put your real domain name in the `CNAME` file. [See instructions at number 5 here](https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b).
 1. Customize this repository. Each time you push, the website should be updated.
 
 
